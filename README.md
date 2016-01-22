@@ -45,4 +45,4 @@ projects root folder:
 As Lemon needs to be compiled, you can easily add lemon to your Makefile:
 
     lemon:
-        @- make -C lemon
+        @make -C lemon
