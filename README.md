@@ -20,7 +20,7 @@ files. The file
 parser generator program itself. A separate file
 [lempar.c](https://github.com/compiler-dept/lemon/blob/master/lemon.c) is the
 template for the parser subroutine that lemon generates.
-[Documentation](http://www.hwaci.com/sw/lemon/lemon.html) on lemon is also
+[Documentation](http://compiler-dept.github.io/lemon/) on lemon is also
 available.
 
 Both the source code to lemon itself and the code that lemon generates are in
